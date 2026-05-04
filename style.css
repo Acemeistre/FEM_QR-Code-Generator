@@ -1,11 +1,10 @@
 body{
     background-color: #A3ACB1;
-    font: 'Outfit', sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 .container h2 {
-    font-family: 'Outfit', sans-serif;
-    font-weight: 400, 700;
+    font-weight: 400;
     color: hsl(218, 44%, 22%);
     font-size: 38px;
     text-align: center;
